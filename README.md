@@ -15,8 +15,24 @@ Self-taught full-stack developer. Started building at 14, never stopped.
 
 ### 🛠 Stack
 
+**Frontend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,js,html,css,mongodb,aws,git,figma&perline=9" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,redux,figma&perline=9" />
+</p>
+
+**Backend & Databases**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,postgres,mysql,redis,firebase&perline=9" />
+</p>
+
+**Cloud & DevOps**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,linux,git,github,vercel&perline=9" />
+</p>
+
+**Tools & Other**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,postman,graphql,prisma,jest&perline=9" />
 </p>
 
 ---
