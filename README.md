@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hey, I'm Rohit 👋
 
-<!--
-**rohitsux/rohitsux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Self-taught full-stack developer. Started building at 14, never stopped.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About me
+
+- 🔨 4+ years building production systems across the full stack
+- 🤖 Worked on AI-powered annotation platforms, EdTech tools, CRMs
+- 🌍 Based in Bangalore · Exploring problems worth solving
+- 🚀 Currently upskilling and figuring out what to build next
+
+---
+
+### 🛠 Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,js,html,css,mongodb,aws,git,figma&perline=9" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohitsux&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitsux&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitsux&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🔗 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rohit0suthar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit0suthar)
