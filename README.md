@@ -107,6 +107,9 @@
 ### `user@earth:~$ whoami`
 
 > **STATUS:** open to **remote Forward Deployed Engineering** work. If you're shipping AI agents at customers and something keeps breaking — that's my favorite kind of problem.
+>
+>
+> `user@earth:~$ mail rohit` → **[rohit.suthar.leo@gmail.com](mailto:rohit.suthar.leo@gmail.com)** — fastest way to reach me.
 
 <div align="center">
 
@@ -114,6 +117,6 @@
 <a href="https://github.com/carryover-dev/carryover"><img src="https://img.shields.io/badge/carryover-open%20source-020402?style=for-the-badge&logo=github&logoColor=5CF36A" alt="carryover" /></a>
 <a href="https://linkedin.com/in/rohit0suthar"><img src="https://img.shields.io/badge/LinkedIn-rohit0suthar-020402?style=for-the-badge&logo=linkedin&logoColor=5CF36A" alt="linkedin" /></a>
 <a href="https://x.com/rohitnotyi"><img src="https://img.shields.io/badge/X-rohitnotyi-020402?style=for-the-badge&logo=x&logoColor=5CF36A" alt="x" /></a>
-<a href="mailto:rohit.suthar.leo@gmail.com"><img src="https://img.shields.io/badge/email-say%20hi-020402?style=for-the-badge&logo=gmail&logoColor=5CF36A" alt="email" /></a>
+<a href="mailto:rohit.suthar.leo@gmail.com"><img src="https://img.shields.io/badge/EMAIL%20ME-rohit.suthar.leo-41F048?style=for-the-badge&logo=gmail&logoColor=020402" alt="email rohit.suthar.leo@gmail.com" /></a>
 
 </div>
