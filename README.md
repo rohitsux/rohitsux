@@ -40,24 +40,6 @@
 // 4 yrs engineering · 0 CS degrees · age 19 · Bangalore
 ```
 
----
-
-### `user@earth:~$ ./arcade — rohit.snake`
-
-> the loop below is autoplay. **[▶ INSERT COIN — PLAY THE REAL GAME](https://rohitsux.github.io/snake/)** — or just click the screen. (arrows / WASD / swipe)
-
-<div align="center">
-
-<a href="https://rohitsux.github.io/snake/" title="Click to play rohit.snake"><img src="assets/snake-demo.svg" alt="rohit.snake — click to play (arrows / WASD / swipe)" width="520" /></a>
-
-<br />
-
-<sub>↑ click the cabinet to take control · live at <code>rohitsux.github.io/snake</code></sub>
-
-</div>
-
----
-
 ### `user@earth:~$ ls ./stack`
 
 <div align="center">
